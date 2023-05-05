@@ -1,0 +1,1 @@
+int WritetoFile(char inputs[10], int currentscore, char answers[10]);
